@@ -21,5 +21,5 @@ Implemented YOLOv4 Object Detection using Webcam on Google Colab. Scaled-YOLOv4 
 * ## On Webcam Image
 ![YOLOv4_Image](https://user-images.githubusercontent.com/37257980/148326691-7d3b6a30-370b-4cdb-8fa0-f5e46e0d6094.png)
 
-* ## On Webcam Video/Real time(one frame behind)
+* ## On Webcam Video/Real time
 ![yolo_real_time](https://user-images.githubusercontent.com/37257980/148326699-c2ea3468-6d51-4b73-a9d0-9eb4d5e70a92.png)
