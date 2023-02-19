@@ -12,7 +12,7 @@ Implemented YOLOv4 Object Detection using Webcam on Google Colab. Scaled-YOLOv4 
 6. Running scaled-YOLOv4 object detections on webcam images and video in real-time.
 
 
-# Demo:
+# Output:
 
 * ## On Darknet's Test Image
 ![Test_Image_Darknet](https://user-images.githubusercontent.com/37257980/148327301-ecb5d8b7-0518-43e1-933d-71cefa7820ae.png)
